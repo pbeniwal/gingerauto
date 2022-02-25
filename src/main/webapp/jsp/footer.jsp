@@ -8,7 +8,10 @@
 			<img src="images/amdocs.png">
 		</h3>
 
-
+		<div>
+			<i class="fa fa-envelope"></i>
+			<p>	<a href="mailto:contact@amdocs.com">contact@amdocs.com</a> </p>
+		</div>
 
 		<p class="footer-company-name">amdocs &copy; 2022</p>
 	</div>
@@ -24,10 +27,7 @@
 			<i class="fa fa-phone"></i>
 			<p>+91 123 456 7890</p>
 		</div>
-		<div>
-			<i class="fa fa-envelope"></i>
-			<p>	<a href="mailto:contact@amdocs.com">contact@amdocs.com</a> </p>
-		</div>
+
 	</div>
 
 	<div class="footer-right">
