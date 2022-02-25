@@ -8,19 +8,16 @@
 			<img src="images/amdocs.png">
 		</h3>
 
-		<p class="footer-links">
-			<a href="#">Home</a>  <a href="#">Blog</a>  <a href="#">Pricing</a> 
-			<a href="#">About</a>  <a href="#">Faq</a>  <a href="#">Contact</a>
-		</p>
 
-		<p class="footer-company-name">Company Name &copy; 2022</p>
+
+		<p class="footer-company-name">amdocs &copy; 2022</p>
 	</div>
 
 	<div class="footer-center">
 		<div>
 			<i class="fa fa-map-marker"></i>
 			<p>
-				<span>Postal Address: Door No.00, Street</span>City, State, Country.
+				<span>Postal Address: Tower 2, Magarpatta</span>Pune, Maharashtra, India.
 			</p>
 		</div>
 		<div>
@@ -29,15 +26,13 @@
 		</div>
 		<div>
 			<i class="fa fa-envelope"></i>
-			<p>	<a href="mailto:helpdesk@company.com">helpdesk@company.com</a> </p>
+			<p>	<a href="mailto:contact@amdocs.com">contact@amdocs.com</a> </p>
 		</div>
 	</div>
 
 	<div class="footer-right">
 		<p class="footer-company-about">
-			<span>About the company</span> Lorem ipsum dolor sit amet,
-			consectateur adispicing elit. Fusce euismod convallis velit, eu
-			auctor lacus vehicula sit amet.
+			<span>About the company</span> We help those who build the future to make it amazing.
 		</p>
 		<div class="footer-icons">
 			<a href="#"><i class="fa fa-facebook"></i></a>
