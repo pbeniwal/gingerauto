@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Login Example</title>
+<title>WebApp</title>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet"
@@ -33,7 +33,7 @@
 <body onLoad="highlighMenu()">
 	<div class="header">
 		<nav class="navbar navbar-expand-lg bg-dark navbar-dark">
-			<a class="navbar-brand" href="#">CompanyName</a>
+			<a class="navbar-brand" href="https://www.amdocs.com/">Amdocs</a>
 			<button class="navbar-toggler" type="button" data-toggle="collapse"
 				data-target="#navbarNav" aria-controls="navbarNav"
 				aria-expanded="false" aria-label="Toggle navigation">

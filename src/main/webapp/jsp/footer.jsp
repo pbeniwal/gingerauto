@@ -5,12 +5,12 @@
 
 	<div class="footer-left">
 		<h3>
-			Company<span>logo</span>
+			<img src="images/amdocs.png">
 		</h3>
 
 		<p class="footer-links">
-			<a href="#">Home</a> · <a href="#">Blog</a> · <a href="#">Pricing</a> ·
-			<a href="#">About</a> · <a href="#">Faq</a> · <a href="#">Contact</a>
+			<a href="#">Home</a> ï¿½ <a href="#">Blog</a> ï¿½ <a href="#">Pricing</a> ï¿½
+			<a href="#">About</a> ï¿½ <a href="#">Faq</a> ï¿½ <a href="#">Contact</a>
 		</p>
 
 		<p class="footer-company-name">Company Name &copy; 2022</p>
