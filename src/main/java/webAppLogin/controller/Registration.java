@@ -51,7 +51,7 @@ public class Registration extends HttpServlet {
 		user.setLastName(request.getParameter("lastName"));
 		user.setLogin(request.getParameter("login"));
 		user.setPassword(request.getParameter("password"));
-		user.setMobileNo(request.getParameter("mobile"));
+		//user.setMobileNo(request.getParameter("mobile"));
 
 		if (UserModel.duplicateLogin(user.getLogin())) {
 			ServletUtility.setErrorMessage("login already in use", request);

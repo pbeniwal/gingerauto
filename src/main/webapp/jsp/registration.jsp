@@ -61,7 +61,7 @@
 									<font color="red"></font>
 								</div>
 							</div>
-
+							<%-- 
 							<div class="form-group row">
 								<label for="mobile"
 									class="col-md-4 col-form-label text-md-right">Mobile
@@ -73,6 +73,8 @@
 									<font color="red"></font>
 								</div>
 							</div>
+							--%>
+							
 							<div class="col-md-6 offset-md-4">
 								<input id="submit" type="submit" class="btn btn-primary"
 									name="operation" value="Register">
