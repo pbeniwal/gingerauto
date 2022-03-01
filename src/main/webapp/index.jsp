@@ -1,6 +1,6 @@
 <%@ include file="jsp/header.jsp"%>
 <div class="container text-center">
-	<h2><img src="images/amdocs.png"></h2>
+	<h2><img src="images/GingerLogo.png"></h2>
 </div>
 <main id="HomePage">
 	<div class="container">
@@ -8,7 +8,8 @@
 			<h3>Welcome To Amdocs Ginger Course!</h3>
 		</div>
 		<div class="jumbotron text-center">
-			<h3>It's Nice To Meet You</h3>
+			<h3>By Prashant Beniwal</h3>
+			<h3>2-Mar to 4-Mar-2022</h3>
 		</div>
 	</div>
 </main>
