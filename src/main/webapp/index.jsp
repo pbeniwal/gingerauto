@@ -1,6 +1,6 @@
 <%@ include file="jsp/header.jsp"%>
 <div class="container text-center">
-	<h2><img src="images/GingerLogo.png"></h2>
+	<img src="images/GingerLogo.png">
 </div>
 <main id="HomePage">
 	<div class="container">
