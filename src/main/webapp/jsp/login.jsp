@@ -38,9 +38,9 @@
 							<div class="form-group row">
 								<label class="col-md-4 col-form-label text-md-right"></label>
 								<div class="col-md-6">
-									<input class="form-control-checkbox" type="checkbox"
+									<input id="agreebutton" class="form-control-checkbox" type="checkbox"
 										name="TermNCondition" required> <font color="red">*</font>
-									I agree on bla bla bla...
+									I agree...
 									<div class="invalid-feedback">Check this check box to
 										continue.</div>
 								</div>
