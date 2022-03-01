@@ -5,7 +5,7 @@
 <main id="HomePage">
 	<div class="container">
 		<div class="jumbotron text-center">
-			<h3>Welcome To Our CompanyName!</h3>
+			<h3>Welcome To Amdocs Ginger Course!</h3>
 		</div>
 		<div class="jumbotron text-center">
 			<h3>It's Nice To Meet You</h3>
